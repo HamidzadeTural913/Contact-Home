@@ -1,0 +1,41 @@
+#kartlar .main {
+  margin-top: 50px;
+}
+
+#kartlar .main h1 {
+  font-size: 50px;
+}
+
+#kartlar .main p {
+  width: 60%;
+}
+
+#kartlar .main .button button {
+  border-radius: 14px;
+  margin: 7px;
+}
+
+#kredit .row {
+  height: 400px;
+  width: 80%;
+  background-color: #E8ECF1;
+  border: gray;
+  border-radius: 10px;
+}
+
+#kredit .row .filial ul {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 20px;
+}
+
+#kredit .row .icon i {
+  color: red;
+}
+
+#kredit img {
+  margin: 50px;
+}
+/*# sourceMappingURL=style.css.map */
